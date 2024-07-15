@@ -16,10 +16,12 @@ Inside main/aap directory-
 
 Start the server for Problem Set 2 -
 **python manage.py runserver**
-![Document and 1 more page - Personal - Microsoft​ Edge 14-07-2024 04_35_27](https://github.com/user-attachments/assets/d3dbbfb3-7849-482b-bfc9-89a005dbf989)
-![Document and 1 more page - Personal - Microsoft​ Edge 14-07-2024 14_54_09](https://github.com/user-attachments/assets/9422e12a-173b-4d55-918e-9a1eee5cc993)
-![Document and 1 more page - Personal - Microsoft​ Edge 14-07-2024 14_54_51](https://github.com/user-attachments/assets/889ef68d-2f64-4d5d-87c2-709d806df67d)
-![Ssss](https://github.com/user-attachments/assets/039265c3-da1d-4237-a905-4997ada140fc)
+
+
+![Admin Interface](https://github.com/user-attachments/assets/889ef68d-2f64-4d5d-87c2-709d806df67d)
+![Admin Interface](https://github.com/user-attachments/assets/039265c3-da1d-4237-a905-4997ada140fc)
+![User Interface](https://github.com/user-attachments/assets/9422e12a-173b-4d55-918e-9a1eee5cc993)
+![User Interface](https://github.com/user-attachments/assets/d3dbbfb3-7849-482b-bfc9-89a005dbf989)
 
 
 
