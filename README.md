@@ -9,7 +9,7 @@ Here i mention the video link of working of our Web-Aap project and Deploy It to
 
 video link - https://youtu.be/nBl8UgJAO68?feature=shared
 
-deployed web app link - 
+deployed web app link - https://gagangupta.pythonanywhere.com/
 
 Inside main/aap directory-
 **cd aap**
@@ -19,7 +19,6 @@ Start the server for Problem Set 2 -
 
 
 ![Admin Interface](https://github.com/user-attachments/assets/889ef68d-2f64-4d5d-87c2-709d806df67d)
-![Admin Interface](https://github.com/user-attachments/assets/039265c3-da1d-4237-a905-4997ada140fc)
 ![User Interface](https://github.com/user-attachments/assets/9422e12a-173b-4d55-918e-9a1eee5cc993)
 ![User Interface](https://github.com/user-attachments/assets/d3dbbfb3-7849-482b-bfc9-89a005dbf989)
 
