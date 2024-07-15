@@ -17,13 +17,7 @@ Inside main/aap directory-
 Start the server for Problem Set 2 -
 **python manage.py runserver**
 
-![Admin Interface](/uploads/119aebace775f5d5ab056e88675f0683/Document_and_1_more_page_-_Personal_-_Microsoft__Edge_14-07-2024_14_54_51.png)
 
-![Admin_Interface](/uploads/a848c726726fadcea70e15016b3b836f/Admin_Interface.jpg)
-
-![User Interface](/uploads/290240f65329ebff0dc6370f59c8520f/Document_and_1_more_page_-_Personal_-_Microsoft__Edge_14-07-2024_14_54_09.png)
-
-![User Interface](/uploads/bc4ef67172e4c5b45e5a3bc9fc22f7bb/Document_and_1_more_page_-_Personal_-_Microsoft__Edge_14-07-2024_04_35_27.png)
 
 
 **Problem Set 3-A).Write and share a small note about your choice of system to schedule
